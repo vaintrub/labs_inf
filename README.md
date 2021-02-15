@@ -1,2 +1,2 @@
-# labs_inf
-Laboratory Works in Computer Science
+# Laboratory Works in Computer Science (MEPHI 2-3 semester)
+
